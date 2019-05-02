@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Ray-Tracing-in-A-Week-E-Book](README0.md)
+* [Ray-Tracing-in-A-Weekend](README0.md)
     * [Chapter 0: Overview](Chapter 0: Overview.md)
     * [Chapter 1: Output an image](Chapter 1: Output an image.md)
     * [Chapter 2: The vec3 class](Chapter 2: The vec3 class.md)
@@ -16,7 +16,7 @@
     * [Chapter 11: Defocus Blur](Chapter 11: Defocus Blur.md)
     * [Chapter 12: Where next?](Chapter 12: Where next?.md)
     * [Acknowledgements](Acknowledgements.md)
-* [Ray-Tracing-in-A-Week-E-Book](README1.md)
+* [Ray-Tracing : The Next Week](README1.md)
     * [Chapter 0: Overview 预览](Chapter 0: Overview.md)
     * [Chapter 1: Motion Blur 运动模糊](Chapter 1: Motion Blur.md)
     * [Chapter 2: Bounding Volume Hierarchies](Chapter 2: Bounding Volume Hierarchies.md)
