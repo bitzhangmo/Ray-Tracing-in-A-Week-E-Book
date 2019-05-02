@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Ray Tracing in A Weekend](readme0/README.md)
+    * [Chapter 0: Overview](readme0/chapter-0-Overview.md)
     * [Chapter 1: Output an image](readme0/chapter-1-output-an-image.md)
     * [Chapter 2: The vec3 class](readme0/chapter-2-the-vec3-class.md)
     * [Chapter 3: Rays, a simple camera, and background](readme0/chapter-3-rays-a-simple-camera-and-background.md)
@@ -16,6 +17,7 @@
     * [Chapter 12: Where next?](readme0/chapter-12-where-next.md)
     * [Acknowledgements](readme0/acknowledgements.md)
 * [Ray-Tracing : The Next Week](readme1/README.md)
+    * [Chapter 0 : Overview ](readme1/chapter-0-Overview.md)
     * [Chapter 1: Motion Blur 运动模糊](readme1/chapter-1-motion-blur.md)
     * [Chapter 2: Bounding Volume Hierarchies](readme1/chapter-2-bounding-volume-hierarchies.md)
     * [Chapter 3 Solid Textures](readme1/chapter-3-solid-textures.md)
